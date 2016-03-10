@@ -1,8 +1,8 @@
 # Versus-Calculating
 
-<Lepretre Guillaume> <Caroni Christopher>
+## Lepretre Guillaume et Caroni Christopher
 
-## Présentation du jeu:
+### Présentation du jeu:
 
 C'est un jeu de mathématiques intitulé qui vise tous les enfants de l’école élémentaire grâce à différents niveau de difficultés. Le programme scolaire est basé sur le calcul mentale. 
  Le jeu est réalisé en mode texte avec la bibliothèque ijavas. Il se lancera depuis le terminal.L’utilisateur pourras réagir avec la machine à l’aide du clavier. Toutes les opérations seront donc faite sur le terminal .
